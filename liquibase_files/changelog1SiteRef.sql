@@ -110,7 +110,8 @@ CREATE INDEX SM_SITE_GEOM_LL_SP_IDX
   NID_STOR ,
   CLAY  ,
   SAND ,
-  SILT)  
+  SILT,
+  GAGE)  
 select site_no,
   sname ,
   lat   ,
