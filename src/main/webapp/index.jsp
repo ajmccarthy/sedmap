@@ -146,6 +146,10 @@
         	  <p style="font-size: 12px;">
         	  	Use the USGS sediment data portal to find and interpret USGS discrete and daily suspended-sediment as well as related data. 
         	  </p>
+        	  <h3>Data Update</h3>
+        	  <p style="margin-top: -12px;font-size: 12px;">
+		  	The sediment portal has been updated with data through July 15, 2017.  As part of these updates, the previous restriction that only allowed users to view and download data from sites with at least 15 or more discrete samples has been removed.  Users can now visualize and download data from all sites with discrete suspended-sediment analyses.
+		  </p>
         	  <h3>Data Source</h3>
         	  <p style="margin-top: -12px;font-size: 12px;">
         	  	The USGS National Water Information System (NWIS) is the original source of all daily and discrete suspended-sediment data presented in the portal, though some suspended-sediment data hosted by NWIS are not provided via this portal. 
