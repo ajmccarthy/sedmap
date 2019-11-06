@@ -21,7 +21,7 @@ ALTER TABLE SEDMAP.DISCRETE_SITES ADD (
 GRANT SELECT ON SEDMAP.DISCRETE_SITES TO SEDUSER;
 
 insert into discrete_sites
-select distinct site_no from SRC_DISCUPDATE_2017;
+select distinct site_no from SRC_DISCUPDATE_2019;
 --rollback Drop table discrete_sites;
 
 
@@ -134,6 +134,6 @@ site_no,
   pHlab,
   TO_DATE(end_date, 'YYYY-MM-DD'),
   end_time 
-   from SRC_DISCUPDATE_2017;
+   from SRC_DISCUPDATE_2019;
 
 --rollback Drop table discrete_sample_fact;  

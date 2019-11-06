@@ -22,7 +22,7 @@ grant select on daily_year to seduser;
 -- insert into daily_year select SITE_NO,1905 from daily_years yrs where yrs."1905" is not null and yrs."1905" >0;
 -- insert into daily_year select SITE_NO,1906 from daily_years yrs where yrs."1906" is not null and yrs."1906" >0;
 -- insert into daily_year select SITE_NO,1907 from daily_years yrs where yrs."1907" is not null and yrs."1907" >0;
-insert into daily_year select SITE_NO,1908 from daily_years yrs where yrs."1908" is not null and yrs."1908" >0;
+--insert into daily_year select SITE_NO,1908 from daily_years yrs where yrs."1908" is not null and yrs."1908" >0;
 insert into daily_year select SITE_NO,1909 from daily_years yrs where yrs."1909" is not null and yrs."1909" >0;
 insert into daily_year select SITE_NO,1910 from daily_years yrs where yrs."1910" is not null and yrs."1910" >0;
 insert into daily_year select SITE_NO,1911 from daily_years yrs where yrs."1911" is not null and yrs."1911" >0;
@@ -132,4 +132,6 @@ insert into daily_year select SITE_NO,2014 from daily_years yrs where yrs."2014"
 insert into daily_year select SITE_NO,2015 from daily_years yrs where yrs."2015" is not null and yrs."2015" >0;
 insert into daily_year select SITE_NO,2016 from daily_years yrs where yrs."2016" is not null and yrs."2016" >0;
 insert into daily_year select SITE_NO,2017 from daily_years yrs where yrs."2017" is not null and yrs."2017" >0;
+insert into daily_year select SITE_NO,2018 from daily_years yrs where yrs."2018" is not null and yrs."2018" >0;
+insert into daily_year select SITE_NO,2019 from daily_years yrs where yrs."2019" is not null and yrs."2019" >0;
 -- rollback truncate table daily_year;
