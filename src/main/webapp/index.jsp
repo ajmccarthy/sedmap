@@ -148,7 +148,7 @@
         	  </p>
         	  <h3>Data Update</h3>
         	  <p style="margin-top: -12px;font-size: 12px;">
-		  	The sediment portal has been updated with data through July 15, 2017.  As part of these updates, the previous restriction that only allowed users to view and download data from sites with at least 15 or more discrete samples has been removed.  Users can now visualize and download data from all sites with discrete suspended-sediment analyses.
+		  	The sediment portal has been updated with data through Sept 17, 2019.  As part of these updates, the previous restriction that only allowed users to view and download data from sites with at least 15 or more discrete samples has been removed.  Users can now visualize and download data from all sites with discrete suspended-sediment analyses.
 		  </p>
         	  <h3>Data Source</h3>
         	  <p style="margin-top: -12px;font-size: 12px;">
